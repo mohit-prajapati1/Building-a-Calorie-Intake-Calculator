@@ -1,0 +1,1164 @@
+{
+  "Cornstarch": {
+    "calories": 381,
+    "total_fat": 0.1,
+    "protein": 0.26,
+    "carbohydrate": 91.27,
+    "sugars": 0.0
+  },
+  "Nuts, pecans": {
+    "calories": 691,
+    "total_fat": 72.0,
+    "protein": 9.17,
+    "carbohydrate": 13.86,
+    "sugars": 3.97
+  },
+  "Eggplant, raw": {
+    "calories": 25,
+    "total_fat": 0.2,
+    "protein": 0.98,
+    "carbohydrate": 5.88,
+    "sugars": 3.53
+  },
+  "Teff, uncooked": {
+    "calories": 367,
+    "total_fat": 2.4,
+    "protein": 13.3,
+    "carbohydrate": 73.13,
+    "sugars": 1.84
+  },
+  "Sherbet, orange": {
+    "calories": 144,
+    "total_fat": 2.0,
+    "protein": 1.1,
+    "carbohydrate": 30.4,
+    "sugars": 24.32
+  },
+  "Cauliflower, raw": {
+    "calories": 25,
+    "total_fat": 0.3,
+    "protein": 1.92,
+    "carbohydrate": 4.97,
+    "sugars": 1.91
+  },
+  "Taro leaves, raw": {
+    "calories": 42,
+    "total_fat": 0.7,
+    "protein": 4.98,
+    "carbohydrate": 6.7,
+    "sugars": 3.01
+  },
+  "Lamb, raw, ground": {
+    "calories": 282,
+    "total_fat": 23.0,
+    "protein": 16.56,
+    "carbohydrate": 0.0,
+    "sugars": 0.0
+  },
+  "Cheese, camembert": {
+    "calories": 300,
+    "total_fat": 24.0,
+    "protein": 19.8,
+    "carbohydrate": 0.46,
+    "sugars": 0.46
+  },
+  "Vegetarian fillets": {
+    "calories": 290,
+    "total_fat": 18.0,
+    "protein": 23.0,
+    "carbohydrate": 9.0,
+    "sugars": 0.8
+  },
+  "PACE, Picante Sauce": {
+    "calories": 25,
+    "total_fat": 0.0,
+    "protein": 0.0,
+    "carbohydrate": 6.25,
+    "sugars": 6.25
+  },
+  "Goji berries, dried": {
+    "calories": 349,
+    "total_fat": 0.4,
+    "protein": 14.26,
+    "carbohydrate": 77.06,
+    "sugars": 45.61
+  },
+  "Mango nectar, canned": {
+    "calories": 51,
+    "total_fat": 0.1,
+    "protein": 0.11,
+    "carbohydrate": 13.12,
+    "sugars": 12.45
+  },
+  "Crackers, rusk toast": {
+    "calories": 407,
+    "total_fat": 7.2,
+    "protein": 13.5,
+    "carbohydrate": 72.3,
+    "sugars": 0.0
+  },
+  "Chicken, boiled, feet": {
+    "calories": 215,
+    "total_fat": 15.0,
+    "protein": 19.4,
+    "carbohydrate": 0.2,
+    "sugars": 0.0
+  },
+  "Quail, raw, meat only": {
+    "calories": 134,
+    "total_fat": 4.5,
+    "protein": 21.76,
+    "carbohydrate": 0.0,
+    "sugars": 0.0
+  },
+  "Pie, lemon, fried pies": {
+    "calories": 316,
+    "total_fat": 16.0,
+    "protein": 3.0,
+    "carbohydrate": 42.6,
+    "sugars": 0.0
+  },
+  "Peppers, raw, jalapeno": {
+    "calories": 29,
+    "total_fat": 0.4,
+    "protein": 0.91,
+    "carbohydrate": 6.5,
+    "sugars": 4.12
+  },
+  "Winged bean tuber, raw": {
+    "calories": 148,
+    "total_fat": 0.9,
+    "protein": 11.6,
+    "carbohydrate": 28.1,
+    "sugars": 0.0
+  },
+  "Salami, turkey, cooked": {
+    "calories": 172,
+    "total_fat": 9.2,
+    "protein": 19.2,
+    "carbohydrate": 1.55,
+    "sugars": 1.12
+  },
+  "Grapes, raw, muscadine": {
+    "calories": 57,
+    "total_fat": 0.5,
+    "protein": 0.81,
+    "carbohydrate": 13.93,
+    "sugars": 0.0
+  },
+  "Nuts, raw, ginkgo nuts": {
+    "calories": 182,
+    "total_fat": 1.7,
+    "protein": 4.32,
+    "carbohydrate": 37.6,
+    "sugars": 0.0
+  },
+  "Spices, ground, savory": {
+    "calories": 272,
+    "total_fat": 5.9,
+    "protein": 6.73,
+    "carbohydrate": 68.73,
+    "sugars": 0.0
+  },
+  "Candies, sesame crunch": {
+    "calories": 516,
+    "total_fat": 33.0,
+    "protein": 11.6,
+    "carbohydrate": 50.3,
+    "sugars": 31.17
+  },
+  "Cheese, low fat, cream": {
+    "calories": 201,
+    "total_fat": 15.0,
+    "protein": 7.85,
+    "carbohydrate": 8.13,
+    "sugars": 5.82
+  },
+  "PACE, Green Taco Sauce": {
+    "calories": 25,
+    "total_fat": 0.0,
+    "protein": 0.0,
+    "carbohydrate": 6.25,
+    "sugars": 6.25
+  },
+  "Syrup, Canadian, maple": {
+    "calories": 270,
+    "total_fat": 0.0,
+    "protein": 0.0,
+    "carbohydrate": 67.38,
+    "sugars": 59.92
+  },
+  "Ostrich, raw, top loin": {
+    "calories": 119,
+    "total_fat": 3.0,
+    "protein": 21.67,
+    "carbohydrate": 0.0,
+    "sugars": 0.0
+  },
+  "Chewing gum, sugarless": {
+    "calories": 268,
+    "total_fat": 0.4,
+    "protein": 0.0,
+    "carbohydrate": 94.8,
+    "sugars": 0.0
+  },
+  "Nuts, dried, pine nuts": {
+    "calories": 673,
+    "total_fat": 68.0,
+    "protein": 13.69,
+    "carbohydrate": 13.08,
+    "sugars": 3.59
+  },
+  "Pasta, unenriched, dry": {
+    "calories": 371,
+    "total_fat": 1.5,
+    "protein": 13.04,
+    "carbohydrate": 74.67,
+    "sugars": 2.67
+  },
+  "McDONALD'S, Side Salad": {
+    "calories": 20,
+    "total_fat": 0.2,
+    "protein": 1.03,
+    "carbohydrate": 4.3,
+    "sugars": 2.24
+  },
+  "Cookies, Marie biscuit": {
+    "calories": 406,
+    "total_fat": 11.0,
+    "protein": 7.05,
+    "carbohydrate": 70.54,
+    "sugars": 21.16
+  },
+  "Broccoli, raw, chinese": {
+    "calories": 30,
+    "total_fat": 0.8,
+    "protein": 1.2,
+    "carbohydrate": 4.67,
+    "sugars": 0.88
+  },
+  "McDONALD'S, Hash Brown": {
+    "calories": 271,
+    "total_fat": 16.0,
+    "protein": 2.48,
+    "carbohydrate": 28.56,
+    "sugars": 0.54
+  },
+  "Agave, raw (Southwest)": {
+    "calories": 68,
+    "total_fat": 0.2,
+    "protein": 0.52,
+    "carbohydrate": 16.23,
+    "sugars": 2.58
+  },
+  "Emu, raw, outside drum": {
+    "calories": 103,
+    "total_fat": 0.5,
+    "protein": 23.08,
+    "carbohydrate": 0.0,
+    "sugars": 0.0
+  },
+  "Nuts, dried, beechnuts": {
+    "calories": 576,
+    "total_fat": 50.0,
+    "protein": 6.2,
+    "carbohydrate": 33.5,
+    "sugars": 0.0
+  },
+  "Currants, dried, zante": {
+    "calories": 283,
+    "total_fat": 0.3,
+    "protein": 4.08,
+    "carbohydrate": 74.08,
+    "sugars": 67.28
+  },
+  "Lentils, raw, sprouted": {
+    "calories": 106,
+    "total_fat": 0.6,
+    "protein": 8.96,
+    "carbohydrate": 22.14,
+    "sugars": 0.0
+  },
+  "Gravy, mix, dry, onion": {
+    "calories": 322,
+    "total_fat": 3.0,
+    "protein": 9.0,
+    "carbohydrate": 67.64,
+    "sugars": 0.0
+  },
+  "Pie, fruit, fried pies": {
+    "calories": 316,
+    "total_fat": 16.0,
+    "protein": 3.0,
+    "carbohydrate": 42.6,
+    "sugars": 21.4
+  },
+  "Snacks, cakes, popcorn": {
+    "calories": 384,
+    "total_fat": 3.1,
+    "protein": 9.7,
+    "carbohydrate": 80.1,
+    "sugars": 0.72
+  },
+  "Snack, Mixed Berry Bar": {
+    "calories": 383,
+    "total_fat": 11.0,
+    "protein": 13.16,
+    "carbohydrate": 58.84,
+    "sugars": 26.32
+  },
+  "Fish, raw, sheepshead": {
+    "calories": 108,
+    "total_fat": 2.4,
+    "protein": 20.21,
+    "carbohydrate": 0.0,
+    "sugars": 0.0
+  },
+  "Babyfood, pear, juice": {
+    "calories": 47,
+    "total_fat": 0.0,
+    "protein": 0.0,
+    "carbohydrate": 11.86,
+    "sugars": 7.28
+  },
+  "Brussels sprouts, raw": {
+    "calories": 43,
+    "total_fat": 0.3,
+    "protein": 3.38,
+    "carbohydrate": 8.95,
+    "sugars": 2.2
+  },
+  "Broccoli raab, cooked": {
+    "calories": 33,
+    "total_fat": 0.5,
+    "protein": 3.83,
+    "carbohydrate": 3.12,
+    "sugars": 0.62
+  },
+  "Butter oil, anhydrous": {
+    "calories": 876,
+    "total_fat": 99.0,
+    "protein": 0.28,
+    "carbohydrate": 0.0,
+    "sugars": 0.0
+  },
+  "Chicory, raw, witloof": {
+    "calories": 17,
+    "total_fat": 0.1,
+    "protein": 0.9,
+    "carbohydrate": 4.0,
+    "sugars": 0.0
+  },
+  "KEEBLER, Waffle Cones": {
+    "calories": 424,
+    "total_fat": 5.3,
+    "protein": 6.5,
+    "carbohydrate": 87.7,
+    "sugars": 31.6
+  },
+  "KEEBLER, Waffle Bowls": {
+    "calories": 424,
+    "total_fat": 5.3,
+    "protein": 6.5,
+    "carbohydrate": 87.7,
+    "sugars": 31.6
+  },
+  "Broccoli, raw, leaves": {
+    "calories": 28,
+    "total_fat": 0.4,
+    "protein": 2.98,
+    "carbohydrate": 5.06,
+    "sugars": 1.48
+  },
+  "Durian, raw or frozen": {
+    "calories": 147,
+    "total_fat": 5.3,
+    "protein": 1.47,
+    "carbohydrate": 27.09,
+    "sugars": 0.0
+  },
+  "Tomatoes, raw, orange": {
+    "calories": 16,
+    "total_fat": 0.2,
+    "protein": 1.16,
+    "carbohydrate": 3.18,
+    "sugars": 0.0
+  },
+  "Tomatoes, raw, yellow": {
+    "calories": 15,
+    "total_fat": 0.3,
+    "protein": 0.98,
+    "carbohydrate": 2.98,
+    "sugars": 0.0
+  },
+  "Egg custards, dry mix": {
+    "calories": 410,
+    "total_fat": 6.4,
+    "protein": 6.9,
+    "carbohydrate": 82.8,
+    "sugars": 0.0
+  },
+  "Peanut flour, low fat": {
+    "calories": 428,
+    "total_fat": 22.0,
+    "protein": 33.8,
+    "carbohydrate": 31.27,
+    "sugars": 0.0
+  },
+  "Fish, smoked, haddock": {
+    "calories": 116,
+    "total_fat": 1.0,
+    "protein": 25.23,
+    "carbohydrate": 0.0,
+    "sugars": 0.0
+  },
+  "DENNY'S, french fries": {
+    "calories": 282,
+    "total_fat": 14.0,
+    "protein": 3.41,
+    "carbohydrate": 35.2,
+    "sugars": 0.85
+  },
+  "Ground turkey, cooked": {
+    "calories": 203,
+    "total_fat": 10.0,
+    "protein": 27.37,
+    "carbohydrate": 0.0,
+    "sugars": 0.0
+  },
+  "MURRAY, Vanilla Wafer": {
+    "calories": 461,
+    "total_fat": 17.0,
+    "protein": 4.0,
+    "carbohydrate": 72.9,
+    "sugars": 31.5
+  },
+  "WENDY'S, french fries": {
+    "calories": 301,
+    "total_fat": 14.0,
+    "protein": 3.73,
+    "carbohydrate": 39.73,
+    "sugars": 0.4
+  },
+  "Bread, toasted, wheat": {
+    "calories": 313,
+    "total_fat": 4.3,
+    "protein": 12.96,
+    "carbohydrate": 55.77,
+    "sugars": 6.42
+  },
+  "Danish pastry, cheese": {
+    "calories": 374,
+    "total_fat": 22.0,
+    "protein": 8.0,
+    "carbohydrate": 37.2,
+    "sugars": 6.95
+  },
+  "Nuts, glazed, walnuts": {
+    "calories": 500,
+    "total_fat": 36.0,
+    "protein": 8.28,
+    "carbohydrate": 47.59,
+    "sugars": 32.14
+  },
+  "Spices, garlic powder": {
+    "calories": 331,
+    "total_fat": 0.7,
+    "protein": 16.55,
+    "carbohydrate": 72.73,
+    "sugars": 2.43
+  },
+  "Oil, soybean lecithin": {
+    "calories": 763,
+    "total_fat": 100.0,
+    "protein": 0.0,
+    "carbohydrate": 0.0,
+    "sugars": 0.0
+  },
+  "Egg, fresh, raw, yolk": {
+    "calories": 322,
+    "total_fat": 27.0,
+    "protein": 15.86,
+    "carbohydrate": 3.59,
+    "sugars": 0.56
+  },
+  "Fireweed, raw, leaves": {
+    "calories": 103,
+    "total_fat": 2.8,
+    "protein": 4.71,
+    "carbohydrate": 19.22,
+    "sugars": 0.0
+  },
+  "Beef, pastrami, cured": {
+    "calories": 147,
+    "total_fat": 5.8,
+    "protein": 21.8,
+    "carbohydrate": 0.36,
+    "sugars": 0.1
+  },
+  "Frankfurter, meatless": {
+    "calories": 233,
+    "total_fat": 14.0,
+    "protein": 19.61,
+    "carbohydrate": 7.7,
+    "sugars": 0.0
+  },
+  "Emu, raw, flat fillet": {
+    "calories": 102,
+    "total_fat": 0.7,
+    "protein": 22.25,
+    "carbohydrate": 0.0,
+    "sugars": 0.0
+  },
+  "Emu, raw, inside drum": {
+    "calories": 108,
+    "total_fat": 1.5,
+    "protein": 22.22,
+    "carbohydrate": 0.0,
+    "sugars": 0.0
+  },
+  "Ice creams, chocolate": {
+    "calories": 216,
+    "total_fat": 11.0,
+    "protein": 3.8,
+    "carbohydrate": 28.2,
+    "sugars": 25.36
+  },
+  "Snacks, potato sticks": {
+    "calories": 522,
+    "total_fat": 34.0,
+    "protein": 6.7,
+    "carbohydrate": 53.3,
+    "sugars": 0.22
+  },
+  "USDA Commodity, salsa": {
+    "calories": 36,
+    "total_fat": 0.2,
+    "protein": 1.5,
+    "carbohydrate": 7.0,
+    "sugars": 0.0
+  },
+  "Figs, uncooked, dried": {
+    "calories": 249,
+    "total_fat": 0.9,
+    "protein": 3.3,
+    "carbohydrate": 63.87,
+    "sugars": 47.92
+  },
+  "Game meat, raw, horse": {
+    "calories": 133,
+    "total_fat": 4.6,
+    "protein": 21.39,
+    "carbohydrate": 0.0,
+    "sugars": 0.0
+  },
+  "Syrup, fruit flavored": {
+    "calories": 261,
+    "total_fat": 0.0,
+    "protein": 0.0,
+    "carbohydrate": 65.1,
+    "sugars": 65.0
+  },
+  "Broccoli, raw, stalks": {
+    "calories": 28,
+    "total_fat": 0.4,
+    "protein": 2.98,
+    "carbohydrate": 5.24,
+    "sugars": 0.0
+  },
+  "Cream, cultured, sour": {
+    "calories": 198,
+    "total_fat": 19.0,
+    "protein": 2.44,
+    "carbohydrate": 4.63,
+    "sugars": 3.41
+  },
+  "Gravy, canned, au jus": {
+    "calories": 16,
+    "total_fat": 0.2,
+    "protein": 1.2,
+    "carbohydrate": 2.5,
+    "sugars": 0.0
+  },
+  "McDONALD'S, Hamburger": {
+    "calories": 264,
+    "total_fat": 10.0,
+    "protein": 12.92,
+    "carbohydrate": 30.28,
+    "sugars": 6.03
+  },
+  "Cheese, port de salut": {
+    "calories": 352,
+    "total_fat": 28.0,
+    "protein": 23.78,
+    "carbohydrate": 0.57,
+    "sugars": 0.57
+  },
+  "SILK Original Creamer": {
+    "calories": 100,
+    "total_fat": 6.7,
+    "protein": 0.0,
+    "carbohydrate": 6.67,
+    "sugars": 0.0
+  },
+  "SILK Hazelnut Creamer": {
+    "calories": 133,
+    "total_fat": 6.7,
+    "protein": 0.0,
+    "carbohydrate": 20.0,
+    "sugars": 20.0
+  },
+  "Soup, mix, dry, onion": {
+    "calories": 293,
+    "total_fat": 0.3,
+    "protein": 7.48,
+    "carbohydrate": 65.07,
+    "sugars": 4.65
+  },
+  "Mushrooms, raw, enoki": {
+    "calories": 37,
+    "total_fat": 0.3,
+    "protein": 2.66,
+    "carbohydrate": 7.81,
+    "sugars": 0.22
+  },
+  "Bacon and beef sticks": {
+    "calories": 517,
+    "total_fat": 44.0,
+    "protein": 29.1,
+    "carbohydrate": 0.8,
+    "sugars": 0.8
+  },
+  "Salami, pork, Italian": {
+    "calories": 425,
+    "total_fat": 37.0,
+    "protein": 21.7,
+    "carbohydrate": 1.2,
+    "sugars": 1.2
+  },
+  "Crackers, whole-wheat": {
+    "calories": 427,
+    "total_fat": 14.0,
+    "protein": 10.58,
+    "carbohydrate": 69.55,
+    "sugars": 1.19
+  },
+  "Peanuts, raw, spanish": {
+    "calories": 570,
+    "total_fat": 50.0,
+    "protein": 26.15,
+    "carbohydrate": 15.83,
+    "sugars": 0.0
+  },
+  "Hominy, white, canned": {
+    "calories": 72,
+    "total_fat": 0.9,
+    "protein": 1.48,
+    "carbohydrate": 14.26,
+    "sugars": 1.82
+  },
+  "Game meat, raw, moose": {
+    "calories": 102,
+    "total_fat": 0.7,
+    "protein": 22.24,
+    "carbohydrate": 0.0,
+    "sugars": 0.0
+  },
+  "Pears, red anjou, raw": {
+    "calories": 62,
+    "total_fat": 0.1,
+    "protein": 0.33,
+    "carbohydrate": 14.94,
+    "sugars": 9.54
+  },
+  "Horseradish, prepared": {
+    "calories": 48,
+    "total_fat": 0.7,
+    "protein": 1.18,
+    "carbohydrate": 11.29,
+    "sugars": 7.99
+  },
+  "Fish, raw, butterfish": {
+    "calories": 146,
+    "total_fat": 8.0,
+    "protein": 17.28,
+    "carbohydrate": 0.0,
+    "sugars": 0.0
+  },
+  "Lebanon bologna, beef": {
+    "calories": 172,
+    "total_fat": 10.0,
+    "protein": 19.03,
+    "carbohydrate": 0.44,
+    "sugars": 0.0
+  },
+  "Ham and cheese spread": {
+    "calories": 245,
+    "total_fat": 19.0,
+    "protein": 16.18,
+    "carbohydrate": 2.28,
+    "sugars": 0.0
+  },
+  "TACO BELL, Taco Salad": {
+    "calories": 170,
+    "total_fat": 9.2,
+    "protein": 6.69,
+    "carbohydrate": 15.1,
+    "sugars": 0.0
+  },
+  "Sauce, worcestershire": {
+    "calories": 78,
+    "total_fat": 0.0,
+    "protein": 0.0,
+    "carbohydrate": 19.46,
+    "sugars": 10.03
+  },
+  "Candies, marshmallows": {
+    "calories": 318,
+    "total_fat": 0.2,
+    "protein": 1.8,
+    "carbohydrate": 81.3,
+    "sugars": 57.56
+  },
+  "Hummus, home prepared": {
+    "calories": 177,
+    "total_fat": 8.6,
+    "protein": 4.86,
+    "carbohydrate": 20.12,
+    "sugars": 0.27
+  },
+  "Horned melon (Kiwano)": {
+    "calories": 44,
+    "total_fat": 1.3,
+    "protein": 1.78,
+    "carbohydrate": 7.56,
+    "sugars": 0.0
+  },
+  "Ice cream sundae cone": {
+    "calories": 254,
+    "total_fat": 14.0,
+    "protein": 3.0,
+    "carbohydrate": 28.89,
+    "sugars": 21.26
+  },
+  "Peppers, raw, serrano": {
+    "calories": 32,
+    "total_fat": 0.4,
+    "protein": 1.74,
+    "carbohydrate": 6.7,
+    "sugars": 3.83
+  },
+  "Cabbage, cooked, napa": {
+    "calories": 12,
+    "total_fat": 0.2,
+    "protein": 1.1,
+    "carbohydrate": 2.23,
+    "sugars": 0.0
+  },
+  "Peppers, dried, ancho": {
+    "calories": 281,
+    "total_fat": 8.2,
+    "protein": 11.86,
+    "carbohydrate": 51.42,
+    "sugars": 0.0
+  },
+  "Parsley, freeze-dried": {
+    "calories": 271,
+    "total_fat": 5.2,
+    "protein": 31.3,
+    "carbohydrate": 42.38,
+    "sugars": 0.0
+  },
+  "Spices, black, pepper": {
+    "calories": 251,
+    "total_fat": 3.3,
+    "protein": 10.39,
+    "carbohydrate": 63.95,
+    "sugars": 0.64
+  },
+  "Spices, white, pepper": {
+    "calories": 296,
+    "total_fat": 2.1,
+    "protein": 10.4,
+    "carbohydrate": 68.61,
+    "sugars": 0.0
+  },
+  "Yambean (jicama), raw": {
+    "calories": 38,
+    "total_fat": 0.1,
+    "protein": 0.72,
+    "carbohydrate": 8.82,
+    "sugars": 1.8
+  },
+  "Nuts, dried, pilinuts": {
+    "calories": 719,
+    "total_fat": 80.0,
+    "protein": 10.8,
+    "carbohydrate": 3.98,
+    "sugars": 0.0
+  },
+  "Kiwifruit, raw, green": {
+    "calories": 61,
+    "total_fat": 0.5,
+    "protein": 1.14,
+    "carbohydrate": 14.66,
+    "sugars": 8.99
+  },
+  "Drumstick leaves, raw": {
+    "calories": 64,
+    "total_fat": 1.4,
+    "protein": 9.4,
+    "carbohydrate": 8.28,
+    "sugars": 0.0
+  },
+  "Yautia (tannier), raw": {
+    "calories": 98,
+    "total_fat": 0.4,
+    "protein": 1.46,
+    "carbohydrate": 23.63,
+    "sugars": 0.0
+  },
+  "Candies, butterscotch": {
+    "calories": 391,
+    "total_fat": 3.3,
+    "protein": 0.03,
+    "carbohydrate": 90.4,
+    "sugars": 80.46
+  },
+  "Cucumber, raw, peeled": {
+    "calories": 12,
+    "total_fat": 0.2,
+    "protein": 0.59,
+    "carbohydrate": 2.16,
+    "sugars": 1.38
+  },
+  "Dandelion greens, raw": {
+    "calories": 45,
+    "total_fat": 0.7,
+    "protein": 2.7,
+    "carbohydrate": 9.2,
+    "sugars": 0.71
+  },
+  "Melons, raw, honeydew": {
+    "calories": 36,
+    "total_fat": 0.1,
+    "protein": 0.54,
+    "carbohydrate": 9.09,
+    "sugars": 8.12
+  },
+  "Potato salad with egg": {
+    "calories": 157,
+    "total_fat": 9.4,
+    "protein": 1.96,
+    "carbohydrate": 16.18,
+    "sugars": 4.95
+  },
+  "Mushrooms, raw, white": {
+    "calories": 22,
+    "total_fat": 0.3,
+    "protein": 3.09,
+    "carbohydrate": 3.26,
+    "sugars": 1.98
+  },
+  "Mushrooms, raw, morel": {
+    "calories": 31,
+    "total_fat": 0.6,
+    "protein": 3.12,
+    "carbohydrate": 5.1,
+    "sugars": 0.6
+  },
+  "Cheese, Mexican blend": {
+    "calories": 358,
+    "total_fat": 29.0,
+    "protein": 23.54,
+    "carbohydrate": 1.75,
+    "sugars": 1.23
+  },
+  "Oranges, Florida, raw": {
+    "calories": 46,
+    "total_fat": 0.2,
+    "protein": 0.7,
+    "carbohydrate": 11.54,
+    "sugars": 9.14
+  },
+  "SILK Vanilla, soymilk": {
+    "calories": 41,
+    "total_fat": 1.4,
+    "protein": 2.47,
+    "carbohydrate": 4.12,
+    "sugars": 2.88
+  },
+  "Papaya nectar, canned": {
+    "calories": 57,
+    "total_fat": 0.2,
+    "protein": 0.17,
+    "carbohydrate": 14.51,
+    "sugars": 13.91
+  },
+  "Fiddlehead ferns, raw": {
+    "calories": 34,
+    "total_fat": 0.4,
+    "protein": 4.55,
+    "carbohydrate": 5.54,
+    "sugars": 0.0
+  },
+  "SILK Peach soy yogurt": {
+    "calories": 94,
+    "total_fat": 1.2,
+    "protein": 2.35,
+    "carbohydrate": 18.82,
+    "sugars": 14.71
+  },
+  "SILK Plain soy yogurt": {
+    "calories": 66,
+    "total_fat": 1.8,
+    "protein": 2.64,
+    "carbohydrate": 9.69,
+    "sugars": 5.29
+  },
+  "PACE, Enchilada Sauce": {
+    "calories": 40,
+    "total_fat": 0.0,
+    "protein": 1.67,
+    "carbohydrate": 8.33,
+    "sugars": 6.67
+  },
+  "Yeast extract spread": {
+    "calories": 185,
+    "total_fat": 0.9,
+    "protein": 23.88,
+    "carbohydrate": 20.42,
+    "sugars": 1.6
+  },
+  "Tomatoes, raw, green": {
+    "calories": 23,
+    "total_fat": 0.2,
+    "protein": 1.2,
+    "carbohydrate": 5.1,
+    "sugars": 4.0
+  },
+  "Mollusks, raw, snail": {
+    "calories": 90,
+    "total_fat": 1.4,
+    "protein": 16.1,
+    "carbohydrate": 2.0,
+    "sugars": 0.0
+  },
+  "Emu, raw, fan fillet": {
+    "calories": 103,
+    "total_fat": 0.8,
+    "protein": 22.5,
+    "carbohydrate": 0.0,
+    "sugars": 0.0
+  },
+  "Pasta, enriched, dry": {
+    "calories": 371,
+    "total_fat": 1.5,
+    "protein": 13.04,
+    "carbohydrate": 74.67,
+    "sugars": 2.67
+  },
+  "Cookies, gingersnaps": {
+    "calories": 416,
+    "total_fat": 9.8,
+    "protein": 5.6,
+    "carbohydrate": 76.9,
+    "sugars": 19.92
+  },
+  "Sour cream, fat free": {
+    "calories": 74,
+    "total_fat": 0.0,
+    "protein": 3.1,
+    "carbohydrate": 15.6,
+    "sugars": 0.39
+  },
+  "MURRAY, Honey Graham": {
+    "calories": 445,
+    "total_fat": 13.0,
+    "protein": 5.9,
+    "carbohydrate": 75.7,
+    "sugars": 22.0
+  },
+  "Frankfurter, chicken": {
+    "calories": 223,
+    "total_fat": 16.0,
+    "protein": 15.51,
+    "carbohydrate": 2.74,
+    "sugars": 2.98
+  },
+  "Ham, canned, chopped": {
+    "calories": 239,
+    "total_fat": 19.0,
+    "protein": 16.06,
+    "carbohydrate": 0.26,
+    "sugars": 0.0
+  },
+  "Spices, dried, thyme": {
+    "calories": 276,
+    "total_fat": 7.4,
+    "protein": 9.11,
+    "carbohydrate": 63.94,
+    "sugars": 1.71
+  },
+  "Carrot juice, canned": {
+    "calories": 40,
+    "total_fat": 0.2,
+    "protein": 0.95,
+    "carbohydrate": 9.28,
+    "sugars": 3.91
+  },
+  "Corn, dried (Navajo)": {
+    "calories": 386,
+    "total_fat": 5.2,
+    "protein": 9.88,
+    "carbohydrate": 74.93,
+    "sugars": 5.38
+  },
+  "Pate, truffle flavor": {
+    "calories": 327,
+    "total_fat": 29.0,
+    "protein": 11.2,
+    "carbohydrate": 6.3,
+    "sugars": 0.0
+  },
+  "Fruit butters, apple": {
+    "calories": 173,
+    "total_fat": 0.3,
+    "protein": 0.39,
+    "carbohydrate": 42.47,
+    "sugars": 35.3
+  },
+  "Fast foods, coleslaw": {
+    "calories": 153,
+    "total_fat": 9.9,
+    "protein": 0.95,
+    "carbohydrate": 14.89,
+    "sugars": 12.19
+  },
+  "Salami, beef, cooked": {
+    "calories": 261,
+    "total_fat": 22.0,
+    "protein": 12.6,
+    "carbohydrate": 1.9,
+    "sugars": 1.5
+  },
+  "Spices, chili powder": {
+    "calories": 282,
+    "total_fat": 14.0,
+    "protein": 13.46,
+    "carbohydrate": 49.7,
+    "sugars": 7.19
+  },
+  "Spices, caraway seed": {
+    "calories": 333,
+    "total_fat": 15.0,
+    "protein": 19.77,
+    "carbohydrate": 49.9,
+    "sugars": 0.64
+  },
+  "Spices, dried, basil": {
+    "calories": 233,
+    "total_fat": 4.1,
+    "protein": 22.98,
+    "carbohydrate": 47.75,
+    "sugars": 1.71
+  },
+  "Pickle relish, sweet": {
+    "calories": 130,
+    "total_fat": 0.5,
+    "protein": 0.37,
+    "carbohydrate": 35.06,
+    "sugars": 29.13
+  },
+  "Chives, freeze-dried": {
+    "calories": 311,
+    "total_fat": 3.5,
+    "protein": 21.2,
+    "carbohydrate": 64.29,
+    "sugars": 0.0
+  },
+  "Fish, raw, sablefish": {
+    "calories": 195,
+    "total_fat": 15.0,
+    "protein": 13.41,
+    "carbohydrate": 0.0,
+    "sugars": 0.0
+  },
+  "Crackers, multigrain": {
+    "calories": 482,
+    "total_fat": 20.0,
+    "protein": 7.1,
+    "carbohydrate": 67.6,
+    "sugars": 12.0
+  },
+  "Spices, ground, mace": {
+    "calories": 475,
+    "total_fat": 32.0,
+    "protein": 6.71,
+    "carbohydrate": 50.5,
+    "sugars": 0.0
+  },
+  "Spices, onion powder": {
+    "calories": 341,
+    "total_fat": 1.0,
+    "protein": 10.41,
+    "carbohydrate": 79.12,
+    "sugars": 6.63
+  },
+  "Butter, without salt": {
+    "calories": 717,
+    "total_fat": 81.0,
+    "protein": 0.85,
+    "carbohydrate": 0.06,
+    "sugars": 0.06
+  },
+  "Rice noodles, cooked": {
+    "calories": 108,
+    "total_fat": 0.2,
+    "protein": 1.79,
+    "carbohydrate": 24.01,
+    "sugars": 0.03
+  },
+  "Barley flour or meal": {
+    "calories": 345,
+    "total_fat": 1.6,
+    "protein": 10.5,
+    "carbohydrate": 74.52,
+    "sugars": 0.8
+  },
+  "Sesbania flower, raw": {
+    "calories": 27,
+    "total_fat": 0.0,
+    "protein": 1.28,
+    "carbohydrate": 6.73,
+    "sugars": 0.0
+  },
+  "Garlic bread, frozen": {
+    "calories": 350,
+    "total_fat": 17.0,
+    "protein": 8.36,
+    "carbohydrate": 41.72,
+    "sugars": 3.69
+  },
+  "KFC, Popcorn Chicken": {
+    "calories": 351,
+    "total_fat": 22.0,
+    "protein": 17.67,
+    "carbohydrate": 21.18,
+    "sugars": 0.0
+  },
+  "APPLEBEE'S, coleslaw": {
+    "calories": 120,
+    "total_fat": 7.1,
+    "protein": 0.79,
+    "carbohydrate": 13.17,
+    "sugars": 9.33
+  },
+  "Rolls, sweet, dinner": {
+    "calories": 321,
+    "total_fat": 7.4,
+    "protein": 10.04,
+    "carbohydrate": 53.58,
+    "sugars": 15.38
+  }
+}
