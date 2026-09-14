@@ -19,7 +19,3 @@ You have been provided with the `nutrition.json` dataset, which contains the nec
 | `protein`   | The protein content in grams per 100 grams.                           |
 | `carbohydrate` | The total carbohydrate content in grams per 100 grams.             |
 | `sugars`    | The amount of sugars in grams per 100 grams.                          |
-
-### Let's Get Started!
-
-This project is a great opportunity to build a real-world feature from scratch, showcasing your development skills and making a meaningful impact on users' health and wellness.
